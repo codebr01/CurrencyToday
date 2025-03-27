@@ -1,0 +1,122 @@
+[
+  {
+    "codigo": "USD",
+    "nome": "Dólar dos Estados Unidos",
+    "codigo_numerico": 840,
+    "pais": "Estados Unidos"
+  },
+  {
+    "codigo": "EUR",
+    "nome": "Euro",
+    "codigo_numerico": 978,
+    "pais": "União Europeia"
+  },
+  {
+    "codigo": "JPY",
+    "nome": "Iene Japonês",
+    "codigo_numerico": 392,
+    "pais": "Japão"
+  },
+  {
+    "codigo": "GBP",
+    "nome": "Libra Esterlina",
+    "codigo_numerico": 826,
+    "pais": "Reino Unido"
+  },
+  {
+    "codigo": "AUD",
+    "nome": "Dólar Australiano",
+    "codigo_numerico": 36,
+    "pais": "Austrália"
+  },
+  {
+    "codigo": "CAD",
+    "nome": "Dólar Canadense",
+    "codigo_numerico": 124,
+    "pais": "Canadá"
+  },
+  {
+    "codigo": "CHF",
+    "nome": "Franco Suíço",
+    "codigo_numerico": 756,
+    "pais": "Suíça"
+  },
+  {
+    "codigo": "CNY",
+    "nome": "Yuan Chinês",
+    "codigo_numerico": 156,
+    "pais": "China"
+  },
+  {
+    "codigo": "SEK",
+    "nome": "Coroa Sueca",
+    "codigo_numerico": 752,
+    "pais": "Suécia"
+  },
+  {
+    "codigo": "NZD",
+    "nome": "Dólar Neozelandês",
+    "codigo_numerico": 554,
+    "pais": "Nova Zelândia"
+  },
+  {
+    "codigo": "BRL",
+    "nome": "Real Brasileiro",
+    "codigo_numerico": 986,
+    "pais": "Brasil"
+  },
+  {
+    "codigo": "RUB",
+    "nome": "Rublo Russo",
+    "codigo_numerico": 643,
+    "pais": "Rússia"
+  },
+  {
+    "codigo": "INR",
+    "nome": "Rupia Indiana",
+    "codigo_numerico": 356,
+    "pais": "Índia"
+  },
+  {
+    "codigo": "MXN",
+    "nome": "Peso Mexicano",
+    "codigo_numerico": 484,
+    "pais": "México"
+  },
+  {
+    "codigo": "ZAR",
+    "nome": "Rand Sul-Africano",
+    "codigo_numerico": 710,
+    "pais": "África do Sul"
+  },
+  {
+    "codigo": "TRY",
+    "nome": "Lira Turca",
+    "codigo_numerico": 949,
+    "pais": "Turquia"
+  },
+  {
+    "codigo": "KRW",
+    "nome": "Won Sul-Coreano",
+    "codigo_numerico": 410,
+    "pais": "Coreia do Sul"
+  },
+  {
+    "codigo": "SGD",
+    "nome": "Dólar de Singapura",
+    "codigo_numerico": 702,
+    "pais": "Singapura"
+  },
+  {
+    "codigo": "NOK",
+    "nome": "Coroa Norueguesa",
+    "codigo_numerico": 578,
+    "pais": "Noruega"
+  },
+  {
+    "codigo": "HKD",
+    "nome": "Dólar de Hong Kong",
+    "codigo_numerico": 344,
+    "pais": "Hong Kong"
+  }
+]
