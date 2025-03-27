@@ -16,7 +16,7 @@ O site foi desenvolvido com as seguintes tecnologias:
 
 ## Como Usar 📝
 
-1. Acesse o site 🌐.
+1. Acesse o site [🌐](https://currency-today-codebr01-joao-netos-projects.vercel.app/)
 2. Escolha a moeda de origem e a moeda de destino 💱.
 3. Insira o valor que deseja converter 💸.
 4. O resultado será exibido automaticamente com a conversão para a moeda selecionada 🔄.
